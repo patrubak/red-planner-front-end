@@ -1,10 +1,5 @@
 {
-  "scripts": {
-    "build": "[red-planner-front-end] build --output public"
-  }
-}
-{
-  "name": "red-planner-front-end",
+    "name": "red-planner-front-end",
   "version": "0.1.0",
   "private": true,
   "scripts": {
