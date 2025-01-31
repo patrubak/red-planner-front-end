@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "[my-framework] build --output public"
+    "build": "[red-planner-front-end] build --output public"
   }
 }
 {
